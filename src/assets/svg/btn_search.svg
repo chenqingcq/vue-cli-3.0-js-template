@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="14px" viewBox="0 0 15 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02空间管理01" transform="translate(-559.000000, -172.000000)" fill="#666666" fill-rule="nonzero">
+            <g id="Group-12" transform="translate(392.000000, 165.000000)">
+                <path d="M172.489051,9 C175.201793,9 177.454916,10.9717916 177.898771,13.5630346 L183,13.5637726 L183,15.2020705 L177.933679,15.2030397 C177.589166,17.9086015 175.282858,20 172.489051,20 C169.457532,20 167,17.5375661 167,14.5 C167,11.4624339 169.457532,9 172.489051,9 Z M172.489051,18.3617021 C174.617565,18.3617021 176.343066,16.6327592 176.343066,14.5 C176.343066,12.3672408 174.617565,10.6382979 172.489051,10.6382979 C170.360538,10.6382979 168.635036,12.3672408 168.635036,14.5 C168.635036,16.6327592 170.360538,18.3617021 172.489051,18.3617021 Z" id="Combined-Shape" transform="translate(175.000000, 14.500000) rotate(45.000000) translate(-175.000000, -14.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
